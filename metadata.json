@@ -1,0 +1,6 @@
+{
+  "name": "居合一閃",
+  "description": "刹那のタイミングを競う、一対一の極限居合切り対戦。江戸期の美しい女武芸者たちが、一撃必殺の刃を交える。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
